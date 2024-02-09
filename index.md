@@ -12,7 +12,7 @@ My complete implementation of assignment in [***COMP90042: Natural Language Proc
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nghetrung/climate-change-fake-news)
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/nlp_results.png"/></center>
 
 ---
 
