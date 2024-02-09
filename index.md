@@ -3,9 +3,6 @@
 
 ## Machine Learning 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ### Climate Change Misinformation Detection
 
 My complete implementation of assignment in [***COMP90042: Natural Language Processing***](https://handbook.unimelb.edu.au/2020/subjects/comp90042) by University of Melbourne (2020).
