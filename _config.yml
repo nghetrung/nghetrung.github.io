@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Trung Nguyen # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Computer Science Graduate and Data Science Postgraduate. I am currently a Data Analyst at Viettel Cyberspace Center.
   <br><br>
-  Second description 
+  Despite all the hype Machine Learning and AI have, I am much more interested in how simple yet effective statistics and visualization can unveil the most helpful pattern in our life.  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/nghetrung">My LinkedIn Profile</a>
+  <a href="https://github.com/nghetrung">My Github Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
