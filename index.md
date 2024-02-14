@@ -1,9 +1,7 @@
 # Portfolio
----
 
 ## Machine Learning
 
----
 ### Climate Change Misinformation Detection
 
 My complete implementation of year end project in [***COMP90042: Natural Language Processing***](https://handbook.unimelb.edu.au/2020/subjects/comp90042) by University of Melbourne (2020).
