@@ -15,23 +15,23 @@ My complete implementation of assignment in [***COMP90042: Natural Language Proc
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ## Dashboards
 
-- [Project 1 Title](http://example.com/)
-<center><img src="images/Monthly KPI dashboard.png"/></center>
+### Paygate (Bill Payment)
 
+<center><img src="images/Monthly KPI dashboard.png"/></center>
 ---
 
+### Digital Customers
+<center><img src="images/Digital Customer.png"/></center>
+---
 
-
+### RFM Analysis
+<center><img src="images/RFM Dashboard.png"/></center>
+---
 
 ---
 <center>© 2024 Trung Nguyen. Powered by Jekyll and the Minimal Theme.</center>
