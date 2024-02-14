@@ -28,7 +28,7 @@ For the detailed solution codes, you can use the github links above.
 ### Potential Donators
 My implementation and report of final year project in [***MAST90107: Data Science Project***](https://handbook.unimelb.edu.au/2020/subjects/mast90107) by University of Melbourne (2020).
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Industry_Project__Final_ Report_G14.pdf)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Industry_Project__Final_Report_G14.pdf)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
