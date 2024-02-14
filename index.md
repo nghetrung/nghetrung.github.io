@@ -3,6 +3,7 @@
 
 ## Machine Learning
 
+---
 ### Climate Change Misinformation Detection
 
 My complete implementation of year end project in [***COMP90042: Natural Language Processing***](https://handbook.unimelb.edu.au/2020/subjects/comp90042) by University of Melbourne (2020).
@@ -10,8 +11,8 @@ My complete implementation of year end project in [***COMP90042: Natural Languag
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nghetrung/climate-change-fake-news)
 
 <center><img src="images/nlp_results.png"/></center>
----
 
+---
 ### NLP Assignments
 
 My solutions for the assignments in [***COMP90042: Natural Language Processing***](https://handbook.unimelb.edu.au/2020/subjects/comp90042) by University of Melbourne (2020).
@@ -23,6 +24,7 @@ The first one is about text preprocessing and classification on rumour data on T
 For the second assignment, I will be quantifying the similarity between pairs of words of a dataset using different methods with the word co-occurrence in the Brown corpus and synset structure of WordNet. Firstly, I will preprocess the dataset to filter out the rare and ambiguous words. Secondly, I will calculate the similarity scores for pairs of words in the filtered dataset using Lin similarity, NPMI and LSA. Lastly, I will quantify how well these methods work by comparing to a human annotated gold-standard.
 
 For the detailed solution codes, you can use the github links above.
+
 ---
 ### Potential Donators
 
@@ -30,20 +32,20 @@ For the detailed solution codes, you can use the github links above.
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
 ---
-
 ## Dashboards
 
 ### Paygate (Bill Payment)
 
 <center><img src="images/Monthly KPI dashboard.png"/></center>
----
 
+---
 ### Digital Customers
 <center><img src="images/Digital Customer.png"/></center>
----
 
+---
 ### RFM Analysis
 <center><img src="images/RFM Dashboard.png"/></center>
+
 ---
 
 ---
