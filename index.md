@@ -25,6 +25,7 @@ For the detailed solution codes, you can use the github links above.
 
 ---
 ### Potential Donators
+My implementation and report of final year project in [***MAST90107: Data Science Project***](https://handbook.unimelb.edu.au/2020/subjects/mast90107) by University of Melbourne (2020).
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
