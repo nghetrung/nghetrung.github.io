@@ -26,7 +26,7 @@ My complete implementation of assignment in [***COMP90042: Natural Language Proc
 ## Dashboards
 
 - [Project 1 Title](http://example.com/)
-
+<center><img src="images/Monthly KPI dashboard.png"/></center>
 
 ---
 
