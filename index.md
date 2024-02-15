@@ -35,10 +35,10 @@ My implementation and report of final year project in [***MAST90107: Data Scienc
 
 ---
 ## Dashboards
-
+While working at banking industry, as a Data Analyst, I built interactive dashboards for different purposes 
 ### Paygate (Bill Payment)
 
-<center><img src="images/Monthly KPI dashboard.png"/></center>
+<center><a href="https://public.tableau.com/views/ThanhtonhanPaygate/DetailDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="images/Monthly KPI dashboard.png"/></a></center>
 
 ---
 ### Digital Customers
