@@ -35,18 +35,19 @@ My implementation and report of final year project in [***MAST90107: Data Scienc
 
 ---
 ## Dashboards
-While working at banking industry, as a Data Analyst, I built interactive dashboards for different purposes 
+While working in banking industry (BIDV), as a Data Analyst, I built interactive dashboards for different purposes using Tableau 
 ### Paygate (Bill Payment)
-
+BIDV Paygate is an online payment gateway system for Fintech partners linking e-wallets. The system provides APIs for authentication and banking payment services for third parties, e-commerce platforms, and public services.
+My task is to build a dashboard displaying the performance of the system in terms of transaction volume and value. Using Tableau, I had created a Monthly KPI dashboard with three main time-series views: Month-to-date, Previous Month, and Year-to-date transaction volumn or value depending on which one users want to see using filter. Each view also shows Month-over-Month (MoM) and Year-over-year (YoY) percentage change. User can filter to see data for different providers, service types, banking channels and time periods. Click on the image below to see my full dashboard.
 <center><a href="https://public.tableau.com/views/ThanhtonhanPaygate/DetailDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="images/Monthly KPI dashboard.png"/></a></center>
 
 ---
 ### Digital Customers
-<center><img src="images/Digital Customer.png"/></center>
+<center><a href="https://public.tableau.com/views/DigitalCustomers/DigitalCustomer?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="images/Digital Customer.png"/></a></center>
 
 ---
 ### RFM Analysis
-<center><img src="images/RFM Dashboard.png"/></center>
+<center><a href="https://public.tableau.com/views/RFMCustomers/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="images/RFM Dashboard.png"/></a></center>
 
 ---
 
