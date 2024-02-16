@@ -38,7 +38,7 @@ In this project, my team works with <a href="https://www.oaktreecapital.com/abou
 
 For the first requirement, we create an R Shiny app which serves as a data cleaning tool to help our client saves time performing tedious data preparation tasks before any further analysis.
 
-<center><img src="/images/cleaning_app.jpg"></center>
+<center><img src="/images/cleaning_app.jpg" style="max-width: 70%;"></center>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
