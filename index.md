@@ -45,12 +45,14 @@ My task is to build a dashboard displaying the performance of the system in term
 
 ---
 ### Digital Customers
-This dashboard includes animated running charts which show number of digital customers (customers who use digital service) through time. By looking at the dashboard, we can see the growth in number of customers in our digital services. 
+This dashboard includes animated running charts which show number of digital customers (customers who use digital service) through time. By looking at the dashboard, we can see the growth in number of customers in our digital services.
+<a href="https://public.tableau.com/views/DigitalCustomers/DigitalCustomer?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" /></a>
 <center><a href="https://public.tableau.com/views/DigitalCustomers/DigitalCustomer?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="images/Digital Customer.png"/></a></center>
 
 ---
 ### RFM Analysis
 As part of a Customer Analysis problem, I built a Customer Segmentation dashboard based on results of RFM analysis. The Tree Map segments customer into 6 groups based on Recency, Frequency and Monetary scores. It also serves as a filter across the whole dashboard. The Ternary chart represents each customer as an individual point with each corner represents RFM metric.
+<a href="https://public.tableau.com/views/RFMCustomers/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" /></a>
 <center><a href="https://public.tableau.com/views/RFMCustomers/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="images/RFM Dashboard.png"/></a></center>
 
 ---
