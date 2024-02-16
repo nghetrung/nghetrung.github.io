@@ -40,8 +40,6 @@ While working in banking industry (BIDV), as a Data Analyst, I built interactive
 BIDV Paygate is an online payment gateway system for Fintech partners linking e-wallets. The system provides APIs for authentication and banking payment services for third parties, e-commerce platforms, and public services.
 My task is to build a dashboard displaying the performance of the system in terms of transaction volume and value. Using Tableau, I had created a Monthly KPI dashboard with three main time-series views: Month-to-date, Previous Month, and Year-to-date transaction volumn or value depending on which one users want to see using filter. Each view also shows Month-over-Month (MoM) and Year-over-year (YoY) percentage change. User can filter to see data for different providers, service types, banking channels and time periods. Click on the image below to see my full dashboard.
 <br><br>
-[![View on Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/views/ThanhtonhanPaygate/DetailDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-<br><br>
 <a href="https://public.tableau.com/views/ThanhtonhanPaygate/DetailDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" /></a>
 <center><a href="https://public.tableau.com/views/ThanhtonhanPaygate/DetailDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="images/Monthly KPI dashboard.png"/></a></center>
 
