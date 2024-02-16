@@ -33,10 +33,8 @@ My implementation and report of final year project in [***MAST90107: Data Scienc
 
 In this project, my team works with <a href="https://www.oaktreecapital.com/about">Oaktree</a> - an American global asset management firm specializing in alternative investment strategies. Our task was to deliver two requirements of our client:
 
-<ol>
-  <li>Develop tools (e.g. scripts, dashboards, applications) to better manage/monitor/analyse our data.</li>
-  <li>Identify strategies to increase donations to Oaktree. For example, this could involve identifying the characteristics of people who raise most of the money for Live Below the Line.</li>
-</ol>
+1. Develop tools (e.g. scripts, dashboards, applications) to better manage/monitor/analyse our data.
+2. Identify strategies to increase donations to Oaktree. For example, this could involve identifying the characteristics of people who raise most of the money for Live Below the Line.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
