@@ -37,10 +37,10 @@ My implementation and report of final year project in [***MAST90107: Data Scienc
 ## Dashboards
 While working in banking industry (BIDV), as a Data Analyst, I built interactive dashboards for different purposes using Tableau 
 ### Paygate (Bill Payment)
-[![View on Tableau Public](https://camo.githubusercontent.com/42f368d8cd095a98fb6f98ab5c401d4abdf2f9a90f45214676ca6ebd2c7542f1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5461626c65617526636f6c6f723d453937363237266c6f676f3d5461626c656175266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://public.tableau.com/views/ThanhtonhanPaygate/DetailDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-<br><br>
 BIDV Paygate is an online payment gateway system for Fintech partners linking e-wallets. The system provides APIs for authentication and banking payment services for third parties, e-commerce platforms, and public services.
 My task is to build a dashboard displaying the performance of the system in terms of transaction volume and value. Using Tableau, I had created a Monthly KPI dashboard with three main time-series views: Month-to-date, Previous Month, and Year-to-date transaction volumn or value depending on which one users want to see using filter. Each view also shows Month-over-Month (MoM) and Year-over-year (YoY) percentage change. User can filter to see data for different providers, service types, banking channels and time periods. Click on the image below to see my full dashboard.
+[![View on Tableau Public](https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white")](https://public.tableau.com/views/ThanhtonhanPaygate/DetailDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+<br><br>
 <center><a href="https://public.tableau.com/views/ThanhtonhanPaygate/DetailDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="images/Monthly KPI dashboard.png"/></a></center>
 
 ---
