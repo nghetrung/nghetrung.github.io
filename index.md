@@ -29,6 +29,13 @@ For the detailed solution codes, you can use the github links above.
 My implementation and report of final year project in [***MAST90107: Data Science Project***](https://handbook.unimelb.edu.au/2020/subjects/mast90107) by University of Melbourne (2020).
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Industry_Project__Final_Report_G14.pdf)
+<br><br>
+In this project, my team works with <a href="https://www.oaktreecapital.com/about">Oaktree</a> - an American global asset management firm specializing in alternative investment strategies. Our task was to deliver two requirements of our client:
+<br><br>
+<ol>
+  <li>Develop tools (e.g. scripts, dashboards, applications) to better manage/monitor/analyse our data.</li>
+  <li>Identify strategies to increase donations to Oaktree. For example, this could involve identifying the characteristics of people who raise most of the money for Live Below the Line.</li>
+</ol>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
