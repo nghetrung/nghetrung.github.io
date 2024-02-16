@@ -40,6 +40,8 @@ For the first requirement, we create an R Shiny app which serves as a data clean
 
 <center><img src="/images/cleaning_app.jpg" width="400" height="auto"></center>
 
+To identify recommended strategies to increase donations for Oaktree, we segmented the donors into different groups based on the Recency, Frequency and Monetary features using unsupervised K-mean model. 
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
