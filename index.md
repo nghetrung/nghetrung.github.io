@@ -36,6 +36,10 @@ In this project, my team works with <a href="https://www.oaktreecapital.com/abou
 1. Develop tools (e.g. scripts, dashboards, applications) to better manage/monitor/analyse our data.
 2. Identify strategies to increase donations to Oaktree. For example, this could involve identifying the characteristics of people who raise most of the money for Live Below the Line.
 
+For the first requirement, we create an R Shiny app which serves as a data cleaning tool to help our client saves time performing tedious data preparation tasks before any further analysis.
+
+<center><img src="/images/cleaning_app.jpg"></center>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
