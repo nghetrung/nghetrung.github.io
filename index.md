@@ -42,6 +42,10 @@ For the first requirement, we create an R Shiny app which serves as a data clean
 
 To identify recommended strategies to increase donations for Oaktree, we segmented the donors into different groups based on the Recency, Frequency and Monetary features using unsupervised K-mean model. 
 
+Finally, we try several machine learning models to predict whether a customer is of High, Medium or Low value based on the features they have. The best predictive result goes to XGBoost model.
+
+<center><img src="/images/xgboost.jpg" width="400" height="auto"></center>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
@@ -70,6 +74,7 @@ This dashboard includes animated running charts which show number of digital cus
 ### RFM Analysis
 
 As part of a Customer Analysis problem, I built a Customer Segmentation dashboard based on results of RFM analysis. The Tree Map segments customer into 6 groups based on Recency, Frequency and Monetary scores. It also serves as a filter across the whole dashboard. The Ternary chart represents each customer as an individual point with each corner represents RFM metric.
+
 <a href="https://public.tableau.com/views/RFMCustomers/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" /></a>
 <center><a href="https://public.tableau.com/views/RFMCustomers/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="images/RFM Dashboard.png"/></a></center>
 
