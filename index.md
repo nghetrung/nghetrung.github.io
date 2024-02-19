@@ -13,10 +13,9 @@ My complete implementation of year end project in [***COMP90042: Natural Languag
 
 In this project, I applied different machine learning and data preprocessing approaches to detect misinformation about climate change. The project has 3 main phases:
 
-1. Data Collection
-   After building different models and getting low quality results, I decided to crawl additional article about climate change from trusted websites. Then I performed multiple text proprocessing steps to prepare for model building phase.
-2. Model Building
-3. Model Evaluating
+1. Data Collection: After building different models and getting low quality results, I decided to crawl additional article about climate change from trusted websites. Then I performed multiple text proprocessing steps to prepare for model building phase.
+2. Model Building: Apply different machine learning models
+3. Model Evaluating: Evaluate and compare model performances
 
 ---
 ### NLP Assignments
