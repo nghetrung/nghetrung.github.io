@@ -91,9 +91,10 @@ I joined a video recommendation project while I was working at Viettel Cyberspac
 
 Initially, my task was to analyze user watching behaviours. The data include Video's metadata and User's watching logs data. From these 2 data, I performed feature engineering to create new features for further analysis such as: Video Duration Type, Watch Percentage, Average Watching Duration, Number of Videos Watched, Number of Categories Watched, etc.
 
-From there, I applied Clustering techniques to analyze users watching behaviour.
+From there, I applied Clustering techniques to analyze users watching behaviour and segment them into different groups based on the categories they watched, duration of the videos they watched, time of the day when they watched and time of the week they watched. Using my results, other member integrate it to the existing recommendation model for improvement.
 
 ### Data Engineering
+While analysing the users behaviour data, I acknowledged the importance of having a central database for my data science team. The data was provided through kafka stream and saved into text file periodically. It was inconvenient when other members asked for new data or later when I was working on creating a system to monitor the metrics and performance of the model. Therefore, I decided to create a database for Myclip's data using PostgreSQL in a Docker container. I used Apache Airflow to schedule data ingestion jobs. The result is a structured, easy to use database that other memeber can quickly query to get their desired sample. 
 
 ### Metrics Monitoring
 
