@@ -1,6 +1,6 @@
 # Portfolio
 
-## Machine Learning
+## Academic Projects
 
 ### Climate Change Misinformation Detection
 
@@ -85,6 +85,9 @@ As part of a Customer Analysis problem, I built a Customer Segmentation dashboar
 <center><a href="https://public.tableau.com/views/RFMCustomers/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="images/RFM Dashboard.png"/></a></center>
 
 ---
+## Myclip Recommendation
+
+I joined a video recommendation project while I was working at Viettel Cyberspace Center. My task was to analyze user watching behaviours.
 
 ---
 <center>© 2024 Trung Nguyen. Powered by Jekyll and the Minimal Theme.</center>
