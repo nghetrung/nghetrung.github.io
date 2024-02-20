@@ -87,7 +87,18 @@ As part of a Customer Analysis problem, I built a Customer Segmentation dashboar
 ---
 ## Myclip Recommendation
 
-I joined a video recommendation project while I was working at Viettel Cyberspace Center. My task was to analyze user watching behaviours.
+I joined a video recommendation project while I was working at Viettel Cyberspace Center. 
+
+Initially, my task was to analyze user watching behaviours. The data include Video's metadata and User's watching logs data. From these 2 data, I performed feature engineering to create new features for further analysis such as: Video Duration Type, Watch Percentage, Average Watching Duration, Number of Videos Watched, Number of Categories Watched, etc.
+
+From there, I applied Clustering techniques to analyze users watching behaviour.
+
+### Data Engineering
+
+### Metrics Monitoring
+
+---
+## MLOps
 
 ---
 <center>© 2024 Trung Nguyen. Powered by Jekyll and the Minimal Theme.</center>
