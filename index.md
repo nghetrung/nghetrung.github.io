@@ -104,5 +104,7 @@ The recommendation system was running in production for sometimes but the metric
 ---
 ## MLOps
 
+After working in two different organizations, my view about Machine Learning has changed significantly. When I was in University, all I need to focus on is learning different algorithms, model architectures, and trying to get the best accuracy or ROC score as possible. But now in real business scenarios, there are a lot more problems. Most of them, as you may already know, is the quality and availability of data. But that happens everywhere even in top tier organizations. The real pain points are the culture and procedure while working in Machine Learning projects.
+
 ---
 <center>© 2024 Trung Nguyen. Powered by Jekyll and the Minimal Theme.</center>
