@@ -80,9 +80,9 @@ As part of a Customer Analysis problem, I built a Customer Segmentation dashboar
 <center><a href="https://public.tableau.com/views/RFMCustomers/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"><img src="images/RFM Dashboard.png"/></a></center>
 
 ---
-## Myclip Recommendation
+## Recommendation System
 
-I joined a video recommendation project while I was working at Viettel Cyberspace Center. 
+I joined a video recommendation project while I was working at Viettel Cyberspace Center (now known as Viettel AI). 
 
 Initially, my task was to analyze user watching behaviours. The data include Video's metadata and User's watching logs data. From these 2 data, I performed feature engineering to create new features for further analysis such as: Video Duration Type, Watch Percentage, Average Watching Duration, Number of Videos Watched, Number of Categories Watched, etc.
 
@@ -102,6 +102,10 @@ The recommendation system was running in production for sometimes but the metric
 After working in two different organizations, my view about Machine Learning has changed significantly. When I was in University, all I need to focus on is learning different algorithms, model architectures, and trying to get the best accuracy or ROC score as possible. But now in real business scenarios, there are a lot more problems. Most of them, as you may already know, is the quality and availability of data. But that happens everywhere even in top tier organizations. The real pain points are the culture and procedure while working in Machine Learning projects. Since the AI trend emerged, everyone is trying to be a data driven company. They tried to solve everything with AI without considering cost and benefit, just because it sounds nice. Sometime, the reason to start a Machine Learning project does not come from the business team, therefore the objective is often not very clear. The business goal can be well achieved by performing simple data analysis and visualization, without Machine Learning.
 
 When Machine Learning is the right thing to do, most organizations still do it in an immature way. There are no experiments tracking during model development as well as metrics/objectives monitoring in model evaluation. At Viettel Cyberspace, I had a chance to work with a Kubernetes cluster. I had built MLFlow platform to serve as an experiment tracking platform where other data scientists can record their model experimentations. I had also built a model deployment component using Seldon Core. The framework helps data scientist package and deploy their models as API endpoints to Kubernetes cluster. Model's endpoints can then be monitored by Prometheus and visualise on Grafana Dashboard.
+
+### Kubernetes Deployment
+
+Later, I had been given a task to migrate and deploy the recommendation system to the Kubernetes clusters. The Recommendation API server was initially running on-premise server using Docker along with several batch jobs in Airflow. Data received from Kafka and stored in file format. My task was to design the pipeline and deploy the Recommendation API server to run on Kubernetes. The system consists of several components. Kafka for data ingestion. Redis, Postgresql, Milvus for data storage. Airflow for running batch jobs. The API server which loads the data from storages, running model and return the recommendation results. Prometheus and Grafana for performance monitoring. Combining with ArgoCD, I had successfully made a Recommendation System API server to automatically redeploy on Kubernetes whenever the source code had been updated and pushed to Git.
 
 ---
 <center>© 2024 Trung Nguyen. Powered by Jekyll and the Minimal Theme.</center>
