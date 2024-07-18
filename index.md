@@ -49,6 +49,7 @@ To identify recommended strategies to increase donations for Oaktree, we segment
 Finally, we try several machine learning models to predict whether a customer is of High, Medium or Low value based on the features they have. The best predictive result goes to XGBoost model.
 
 <center><img src="/images/xgboost.jpg" width="400" height="auto"></center>
+
 ---
 ## Dashboards
 
