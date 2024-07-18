@@ -51,8 +51,6 @@ Finally, we try several machine learning models to predict whether a customer is
 <center><img src="/images/xgboost.jpg" width="400" height="auto"></center>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
 ---
 ## Dashboards
 
