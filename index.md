@@ -9,8 +9,6 @@ My complete implementation of year end project in [***COMP90042: Natural Languag
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nghetrung/climate-change-fake-news)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/NLP_project.pdf)
 
-<center><img src="images/nlp_results.png"/></center>
-
 In this project, I applied different machine learning and data preprocessing approaches to detect misinformation about climate change. The project has 3 main phases:
 
 1. Data Collection: After building different models and getting low quality results, I decided to crawl additional article about climate change from trusted websites. Then I performed multiple text proprocessing steps to prepare for model building phase.
