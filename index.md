@@ -109,11 +109,13 @@ Later on I researched on how to build and use Kedro pipeline for experimenting m
 
 Later, I had been given a task to migrate and deploy the recommendation system to the Kubernetes clusters. The Recommendation API server was initially running on-premise server using Docker along with several batch jobs in Airflow. Data received from Kafka and stored in file format. My task was to design the pipeline and deploy the Recommendation API server to run on Kubernetes. The system consists of several components. Kafka for data ingestion. Redis, Postgresql, Milvus for data storage. Airflow for running batch jobs. The API server which loads the data from storages, running model and return the recommendation results. Prometheus and Grafana for performance monitoring. Combining with ArgoCD, I had successfully made a Recommendation System API server to automatically redeploy on Kubernetes whenever the source code had been updated and pushed to Git.
 
-### Lead Allocation Service
+---
+
+## Lead Allocation Service
 
 At Techcombank, I took on a key role in developing and maintaining a Lead Allocation service powered by Constrained Optimization. This service automates the lead assignment process, replacing manual distribution with a smart, rules-based engine that matches leads to the right sales agents based on multiple constraints. The result: a drastic reduction in assignment time and a more efficient, scalable workflow. This project sharpened my skills in algorithmic problem-solving and gave me hands-on experience building real-time decision-making systems in a high-stakes environment.
 
-### Cloud Platform
+## Cloud Platform
 
 At Techcombank, I also applied my MLOps skills to quickly ramp up on the Databricks platform. I set up automated workflows to handle data preparation and scheduled prediction tasks, eliminating the need for manual intervention and streamlining the entire pipeline. By integrating MLflow, I was able to track model experiments more effectively, monitor performance across versions, and maintain better control over the model lifecycle. This experience deepened my understanding of production-grade ML systems and reinforced the importance of automation and traceability in delivering reliable, scalable machine learning solutions.
 
